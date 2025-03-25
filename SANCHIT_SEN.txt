@@ -1,0 +1,55 @@
+                                                  Sanchit Sen
+              +91 93543 01102 | sensanchita2212@gmail.com | linkedin.com/in/sanchit-sen | github.com/sanchit3101
+
+TECHNICAL SKILLS
+ Programming: Python, C++, C, Java, Javascript
+ Platforms: Windows, Linux (Ubuntu), Raspbian OS
+ Libraries & Tools: AWS, GCP, Azure, React.js, Node.js, Express.js, OpenCV4, Git, Docker
+ Databases: MongoDB, MySQL, DynamoDB, AWS RDS
+
+PROJECTS
+ Intelligent Camera Module for Autonomous Automotive Applications
+ Cloud Computing and Machine Learning                                                      AWS, DynamoDB, Lambda, Rekognition
+   •Led the design and deployment of AWS cloud infrastructure supporting 100+ camera modules, ensuring scalable and efﬁcient
+   operations with 99.9% uptime.
+   •Deployed a serverless architecture using AWS Lambda, API Gateway, and S3 to handle over 10,000 image processing requests per
+   second, ensuring cost-effective and highly available services for automotive applications.
+   •Optimized storage and data processing pipelines by integrating AWS S3 and AWS Lambda, handling image data daily, improving
+   data accessibility and processing speed by 35%.
+   •Ensured compliance with automotive industry standards for data security and privacy, utilizing AWS IAM and AWS KMS, achieving
+   100% compliance with data encryption and secure access protocols.
+
+ Bike Rental Service
+ Cloud Computing and Web Development                                                            AWS, DynamoDB, CSS, HTML, JS
+   •Designed and Developed a Responsive Web Application using HTML, CSS, and JavaScript, with an average page load time of under
+   2 seconds.
+   •Integrated AWS to host the application, achieving 99.99% uptime and reducing hosting costs by 20% through efﬁcient use of cloud
+   resources.
+   •Monitored Application Performance with AWS CloudWatch, identifying and resolving 95% of errors within 5 minutes, maintaining
+   an average uptime of 99.95%.
+
+EXPERIENCE
+ CLOUD/IOT DEVELOPER INTERN                                                                             June 2024 – Aug 2024
+ CREATARA                                                                                                          Delhi,India
+   • Set up and conﬁgured AWS cloud environment to support the Intelligent Camera Module for autonomous automotive applications,
+   reducing setup time by 25%.
+   • Integrated AI capabilities into the Camera Module using AWS Lambda, enabling real-time image processing and decision-making
+   with a 15% improvement in system response time.
+   •Developed and deployed a scalable AWS infrastructure using EC2, S3, and IAM, improving data processing efﬁciency by 20% and
+   ensuring seamless communication between the Camera Module and automotive systems.
+   • Automated deployment processes using AWS CloudFormation, reducing manual setup time by 30% and minimizing conﬁguration
+   errors.
+   • Collaborated with cross-functional teams to optimize AI models for real-time vehicle data analysis, enhancing system
+   performance by 10%.
+
+EDUCATION
+ University of Petroleum and Energy Studies                                                             Dehradun, Uttarakhand
+ Btech in Computer Science, Cloud Computing and Virtualization Technology                                Aug 2022 – May 2026
+ Bhatnagar International School                                                                           Paschim Vihar, Delhi
+ Class 12th, CBSE                                                                                                   May 2022
+CERTIFICATIONS
+ • AWS Academy Graduate - AWS Academy Cloud Architecting (AWS Academy)
+ • AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 1 (AWS Academy)
+ • AWS Academy Graduate - AWS Academy Introduction to Cloud Semester 2 (AWS Academy)
+ • AWS S3 Basics (Coursera Project Network)
+
